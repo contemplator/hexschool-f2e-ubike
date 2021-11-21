@@ -44,7 +44,15 @@ MIT
 @angular/router
 MIT
 
+@iconify/icons-akar-icons
+
 @iconify/icons-eva
+
+@iconify/icons-fluent
+
+@iconify/icons-fontisto
+
+@iconify/icons-maki
 
 @iconify/icons-prime
 
